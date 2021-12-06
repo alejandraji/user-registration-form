@@ -4,7 +4,7 @@ This was a code challenge for OLLIE, using React.JS
 -made the form responsive (mobile + desktop)
 
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
