@@ -34,7 +34,6 @@ function validatePassword(value) {
 
   return null;
 }
-
 function validateConfirmPassword(value, password) {
   if (value.length === 0) {
     return "This is required";
